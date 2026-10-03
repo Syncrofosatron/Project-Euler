@@ -18,7 +18,7 @@ var first_3 = 3;
 var last_3 = 999;
 
 var first_5 = 5;
-var last_5 = 1000;
+var last_5 = 995;
 
 var first_15 = 15;
 var last_15 = 990;
